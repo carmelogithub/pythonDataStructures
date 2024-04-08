@@ -1,0 +1,21 @@
+Python Data Structures
+sistema para organizar data. Acceder, gestionar de la manera más eficiente.
+
+Lists []
+Similar a una array
+Datos ordenados. Genera excepción si pretendes ordenar datos de diferentes tipos
+es muy flexible. Los items no tienen por qué tener el mismo tipo de dato
+C++ son vectores
+Java son ArrayList (AL)
+El coste de la insertar / eliminar item. Todos los items deben cambiarse.
+cada item de la lista se accede por su posición
+
+Dictionary (key,value) {}
+hash table de una dimensión.
+colección unordered (sin orden)
+almacena data como un mapa. key, value
+indexar un dict. keys : igual que una tabla de una base de datos
+
+Set - Conjunto
+No soporta duplicados
+no mantiene el orden de los items
